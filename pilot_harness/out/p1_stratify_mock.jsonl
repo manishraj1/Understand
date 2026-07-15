@@ -1,0 +1,32 @@
+{"_type": "header", "run": "p1_stratify_mock", "ts": 1784121247.5452857, "config": {"model_id": "mock-model", "backend": "mock", "temperature": 0.8, "top_p": 0.95, "max_new_tokens": 4096, "seed": 42}, "config_fp": "183204877e5fb6db", "meta": {"k": 4, "n_items": 30}}
+{"id": "syn0", "pass_rate": 0.75, "stratum": null, "mean_think_len": 205.75, "k": 4, "_type": "record"}
+{"id": "syn1", "pass_rate": 1.0, "stratum": "easy", "mean_think_len": 252.5, "k": 4, "_type": "record"}
+{"id": "syn2", "pass_rate": 0.75, "stratum": null, "mean_think_len": 135.25, "k": 4, "_type": "record"}
+{"id": "syn3", "pass_rate": 0.5, "stratum": "medium", "mean_think_len": 259.25, "k": 4, "_type": "record"}
+{"id": "syn4", "pass_rate": 0.75, "stratum": null, "mean_think_len": 258.25, "k": 4, "_type": "record"}
+{"id": "syn5", "pass_rate": 0.75, "stratum": null, "mean_think_len": 264.0, "k": 4, "_type": "record"}
+{"id": "syn6", "pass_rate": 0.25, "stratum": null, "mean_think_len": 131.75, "k": 4, "_type": "record"}
+{"id": "syn7", "pass_rate": 0.75, "stratum": null, "mean_think_len": 253.25, "k": 4, "_type": "record"}
+{"id": "syn8", "pass_rate": 1.0, "stratum": "easy", "mean_think_len": 177.25, "k": 4, "_type": "record"}
+{"id": "syn9", "pass_rate": 0.75, "stratum": null, "mean_think_len": 147.25, "k": 4, "_type": "record"}
+{"id": "syn10", "pass_rate": 1.0, "stratum": "easy", "mean_think_len": 97.25, "k": 4, "_type": "record"}
+{"id": "syn11", "pass_rate": 0.75, "stratum": null, "mean_think_len": 195.0, "k": 4, "_type": "record"}
+{"id": "syn12", "pass_rate": 1.0, "stratum": "easy", "mean_think_len": 161.5, "k": 4, "_type": "record"}
+{"id": "syn13", "pass_rate": 0.5, "stratum": "medium", "mean_think_len": 189.5, "k": 4, "_type": "record"}
+{"id": "syn14", "pass_rate": 0.75, "stratum": null, "mean_think_len": 133.75, "k": 4, "_type": "record"}
+{"id": "syn15", "pass_rate": 1.0, "stratum": "easy", "mean_think_len": 272.5, "k": 4, "_type": "record"}
+{"id": "syn16", "pass_rate": 0.75, "stratum": null, "mean_think_len": 96.5, "k": 4, "_type": "record"}
+{"id": "syn17", "pass_rate": 0.5, "stratum": "medium", "mean_think_len": 216.5, "k": 4, "_type": "record"}
+{"id": "syn18", "pass_rate": 1.0, "stratum": "easy", "mean_think_len": 282.0, "k": 4, "_type": "record"}
+{"id": "syn19", "pass_rate": 1.0, "stratum": "easy", "mean_think_len": 328.75, "k": 4, "_type": "record"}
+{"id": "syn20", "pass_rate": 0.75, "stratum": null, "mean_think_len": 230.25, "k": 4, "_type": "record"}
+{"id": "syn21", "pass_rate": 1.0, "stratum": "easy", "mean_think_len": 300.25, "k": 4, "_type": "record"}
+{"id": "syn22", "pass_rate": 0.75, "stratum": null, "mean_think_len": 179.0, "k": 4, "_type": "record"}
+{"id": "syn23", "pass_rate": 0.5, "stratum": "medium", "mean_think_len": 254.25, "k": 4, "_type": "record"}
+{"id": "syn24", "pass_rate": 1.0, "stratum": "easy", "mean_think_len": 203.5, "k": 4, "_type": "record"}
+{"id": "syn25", "pass_rate": 1.0, "stratum": "easy", "mean_think_len": 172.75, "k": 4, "_type": "record"}
+{"id": "syn26", "pass_rate": 1.0, "stratum": "easy", "mean_think_len": 271.75, "k": 4, "_type": "record"}
+{"id": "syn27", "pass_rate": 1.0, "stratum": "easy", "mean_think_len": 211.25, "k": 4, "_type": "record"}
+{"id": "syn28", "pass_rate": 0.75, "stratum": null, "mean_think_len": 282.5, "k": 4, "_type": "record"}
+{"id": "syn29", "pass_rate": 0.75, "stratum": null, "mean_think_len": 330.25, "k": 4, "_type": "record"}
+{"n_items": 30, "mean_pass": 0.8, "selected_counts": {"easy": 5, "medium": 4, "hard": 0}, "_type": "summary", "n_records": 30}
